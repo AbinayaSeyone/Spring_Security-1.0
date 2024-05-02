@@ -11,7 +11,7 @@ import java.security.Principal;
 @RestController
 public class HelloController
 {
-    @GetMapping("/hello")
+    @GetMapping("/api/hello")
     public String hello() {
         return "Hello , Welcome to Daily Code Buffer!!";
     }

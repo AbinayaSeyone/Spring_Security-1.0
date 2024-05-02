@@ -1,3 +1,7 @@
 
-|
-java:S1874%"9Remove this use of "authorizeRequests"; it is deprecated.(Í¦¯Ê8²Í™ä1J$a89414b7-82ea-4343-ac6f-cb878b5c7ef2
+
+java:S1874$"9Remove this use of "authorizeRequests"; it is deprecated.(’¬÷Õıÿÿÿÿ8â¥âÉó1J$3ab18fae-dee4-4cfe-b4aa-2c703faf3cdf
+~	java:S125'"<This block of commented-out lines of code should be removed.(éÁŠ8æ¥âÉó1J$fd7a4957-c89f-4c7f-ad4b-d6667ac9e2ba
+~	java:S1255"<This block of commented-out lines of code should be removed.(éÁŠ8è¥âÉó1J$2f082bf7-594c-462a-841d-3b13f9adcdb9
+“
+java:S1128"KRemove this unused import 'org.springframework.security.config.Customizer'.(Ïóœ¬ùÿÿÿÿ8ê¥âÉó1J$a4943598-838d-45a4-8682-a0747a62b157
